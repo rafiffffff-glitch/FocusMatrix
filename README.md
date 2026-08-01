@@ -1,21 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎯 FocusMatrix
 
-# Run and deploy your AI Studio app
+FocusMatrix adalah aplikasi cerdas yang dibangun menggunakan [Google AI Studio](https://ai.studio/) dan ditenagai oleh model AI Gemini. Aplikasi ini dirancang untuk membantu pengguna dalam... *(hapus bagian ini dan ceritakan fungsi utama aplikasimu dalam 1-2 kalimat)*.
 
-This contains everything you need to run your app locally.
+## ✨ Fitur Utama
+* **Integrasi AI Cerdas:** Memanfaatkan kekuatan Gemini API untuk merespons dan memproses data.
+* **Antarmuka Responsif:** Dibangun menggunakan teknologi web modern.
+* *(Tambahkan fitur unggulan lainnya di sini)*
+* *(Tambahkan fitur unggulan lainnya di sini)*
 
-View your app in AI Studio: https://ai.studio/apps/be97b4b9-a36e-462e-aed1-ee640d32457e
+## 🛠️ Teknologi yang Digunakan
+* **Bahasa:** [TypeScript](https://www.typescriptlang.org/)
+* **Build Tool:** [Vite](https://vitejs.dev/)
+* **AI Engine:** [Google Gemini API](https://ai.google.dev/)
+* **Backend / BaaS:** [Firebase](https://firebase.google.com/)
+* **Package Manager:** NPM / [Bun](https://bun.sh/)
 
-## Run Locally
+## 🚀 Cara Menjalankan Secara Lokal (Local Development)
 
-**Prerequisites:**  Node.js
+Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputermu sendiri.
 
+### Prasyarat
+Pastikan kamu sudah menginstal:
+* [Node.js](https://nodejs.org/) (versi terbaru)
+* Akun Google AI Studio untuk mendapatkan API Key.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-"# FocusMatrix" 
+### Instalasi
+
+1. **Clone repositori ini:**
+   ```bash
+   git clone [https://github.com/rafiffffff-glitch/FocusMatrix.git](https://github.com/rafiffffff-glitch/FocusMatrix.git)
+   cd FocusMatrix
