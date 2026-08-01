@@ -1,0 +1,6 @@
+{
+  "name": "Task & Calendar - Apple Design",
+  "description": "Aplikasi produktivitas minimalis dengan Kalender, List Tugas, Eisenhower Matrix, dan Pomodoro Timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
