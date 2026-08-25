@@ -1,6 +1,5 @@
 # 🎯 FocusMatrix
 
-FocusMatrix adalah aplikasi cerdas yang dibangun menggunakan [Google AI Studio](https://ai.studio/) dan ditenagai oleh model AI Gemini. Aplikasi ini dirancang untuk membantu pengguna dalam... *(hapus bagian ini dan ceritakan fungsi utama aplikasimu dalam 1-2 kalimat)*.
 
 ## ✨ Fitur Utama
 * **Integrasi AI Cerdas:** Memanfaatkan kekuatan Gemini API untuk merespons dan memproses data.
